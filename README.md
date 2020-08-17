@@ -2,22 +2,22 @@
 中国程序员容易发音错误的单词
 参考原文出处 [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 
-### A
+
 | 单词  | 🔊朗读 |  ✅ 正确发音 | ❌ 错误发音 |
 | ---- | ---- | --- | ------- |
-| access |  [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ['ækses] | [ək'ses] |
-| Adobe |  [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | [ə'dəʊbi]| [əˈdub] |
-| admin |  [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ['ædmɪn] | [ɜ:d'mɪn] |
+| access |  [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | [<font color=red>'æ</font>kses] | [ək'ses] |
+| Adobe |  [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | [ə'd<font color=red>əʊ</font>bi]| [əˈdub] |
+| admin |  [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | [<font color=red>'æ</font>dmɪn] | [ɜ:d'mɪn] |
 | agile |  [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ['ædʒaɪl] | [ə'dʒaɪl] |
-| AJAX |  [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ['eidʒæks] | [ə'dʒʌks] |
-| alias |  [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | [ˈeɪliəs]| [ə'lais] |
+| AJAX |  [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | [<font color=red>'ei</font>dʒæks] | [ə'dʒʌks] |
+| alias |  [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | [<font color=red>ˈeɪ</font>liəs]| [ə'lais] |
 | amazon |  [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ['æməzən] | ['əmeizən; ə'meizən] |
 | analogy |  [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | [əˈnælədʒi] | [ænə'lɒdʒi] |
 | Angular |  [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ['æŋgjʊlə] | ['æŋɡələ; 'æŋdʒʌlə] |
-| Apache |  [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | [ə'pætʃɪ] | [ʌpʌtʃ] |
+| Apache |  [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | [<font color=red>ə'</font>pætʃɪ] | [ʌpʌtʃ] |
 | app |  [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | [æp] | [eipi'pi]|
-| archive |  [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ['ɑːkaɪv] | ['ətʃɪv] |
-| array |  [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | [ə'rei] | [æ'rei] |
+| archive |  [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | [<font color=red>'ɑːkaɪv</font>] | ['ətʃɪv] |
+| array |  [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | [<font color=red>ə'</font>rei] | [æ'rei] |
 | ASCII |  [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=1) | ['æski] | [ɑːsk] |
 | aspect |  [🔊](http://dict.youdao.com/dictvoice?audio=aspect&type=1) | ['æspekt] | [ə'spekt] |
 | avatar |  [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1) | ['ævətɑː] | [ə'vʌtɑ] |
