@@ -95,7 +95,7 @@
 
 ### 参考资料
 
-> Clone form: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+> 0. Clone from: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
 > 1. https://www.zhihu.com/question/19739907
 > 2. https://www.v2ex.com/t/131094
 > 3. https://www.v2ex.com/t/309350
