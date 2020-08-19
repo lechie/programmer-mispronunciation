@@ -10,9 +10,8 @@
 | admin |  [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | [<font color=red>'æ</font>dmɪn] | [ɜ:d'mɪn] |
 | agile |  [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ['ædʒaɪl] | [ə'dʒaɪl] |
 | AJAX |  [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | [<font color=red>'ei</font>dʒæks] | [ə'dʒʌks] |
-
-| alter |  [🔊](http://dict.youdao.com/dictvoice?audio=alert&type=2) | ['ɔːltə] | [ə'lɜːt] | 
 | alias |  [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | [<font color=red>ˈeɪ</font>liəs]| [ə'lais] |
+| alter |  [🔊](http://dict.youdao.com/dictvoice?audio=alter&type=2) | ['ɔːltə] | [ə'lɜːt] | 
 | amazon |  [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ['æməzən] | ['əmeizən; ə'meizən] |
 | analogy |  [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | [əˈnælədʒi] | [ænə'lɒdʒi] |
 | Angular |  [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ['æŋgjʊlə] | ['æŋɡələ; 'æŋdʒʌlə] |
